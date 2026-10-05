@@ -1,0 +1,217 @@
+Woodlands High School Library System
+(Lesson 2.1 — Abstraction Assignment)
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Enter title: Enter author: Enter ISBN: Book added: Effective Java
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Enter title: Enter author: Enter ISBN: Book added: Clean Code
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Enter student name: Enter student ID: Student registered: Maya Chen (ID: 24157)
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Enter student name: Enter student ID: Student registered: Luis Ortiz (ID: 23891)
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: --- Books ---
+  Effective Java by Joshua Bloch (ISBN: 9780134685991) — Available
+  Clean Code by Robert Martin (ISBN: 9780132350884) — Available
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: --- Students ---
+  Maya Chen (ID: 24157)
+  Luis Ortiz (ID: 23891)
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Search by: 1) ISBN  2) Title
+Choose: Enter ISBN: Effective Java by Joshua Bloch (ISBN: 9780134685991) — Available
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Enter ISBN: Enter student ID: Checkout successful.
+Effective Java is now checked out to Maya Chen.
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Enter ISBN: Enter student ID: Checkout failed: that book is not available.
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Enter ISBN: Enter student ID: Checkout failed: no book found with that ISBN.
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Enter ISBN: Enter student ID: Checkout failed: no student found with that ID.
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: --- Active Loans ---
+  [ACTIVE] Effective Java → Maya Chen (ID 24157)
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Enter ISBN: Return successful. Effective Java is available again.
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: --- Active Loans ---
+  (none)
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: --- Books ---
+  Effective Java by Joshua Bloch (ISBN: 9780134685991) — Available
+  Clean Code by Robert Martin (ISBN: 9780132350884) — Available
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Search by: 1) ISBN  2) Title
+Choose: Enter title (or part of title):   Clean Code by Robert Martin (ISBN: 9780132350884) — Available
+
+===== SCHOOL LIBRARY SYSTEM =====
+1. Add Book
+2. Add Student
+3. List Books
+4. List Students
+5. Search for Book
+6. Check Out Book
+7. Return Book
+8. View Active Loans
+0. Exit
+Choose an option: Goodbye.
+
